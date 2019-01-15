@@ -1,6 +1,8 @@
 <template>
   <div id="app">
-      <app-message></app-message>
+      <h1>Lets Go Somewhere! </h1>
+      <hr>
+      <router-view></router-view>
   </div>
 </template>
 
